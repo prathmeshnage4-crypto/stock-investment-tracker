@@ -1,0 +1,3 @@
+Stock Investment Tracker
+========================
+Total Investment Value: $1100
